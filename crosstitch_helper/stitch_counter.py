@@ -72,7 +72,7 @@ class StitchCounter():
             self.stitch_count[hexvalue] = self.stitch_count[hexvalue] + 1
         else:
             self.stitch_count[hexvalue] = 1
-    
+
     def stitch_count_for_colour(self, colour):
         """
         Return the number of stitches of a colour in the pattern.

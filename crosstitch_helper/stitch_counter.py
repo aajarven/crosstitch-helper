@@ -27,8 +27,8 @@ class StitchCounter():
             self.stitch_count = {}
             for hexvalue in self._stitch_iterator():
                 if hexvalue not in self._palette:
-                    raise ValueError("Colour {} found in the pattern image, not "
-                                     "found in the colour palette."
+                    raise ValueError("Colour {} found in the pattern image, "
+                                     "not found in the colour palette."
                                      "".format(hexvalue))
                 self._add_stitch(hexvalue)
 
@@ -60,7 +60,6 @@ class StitchCounter():
                  for colour in
                  sorted(self.stitch_count, key=sorter, reverse=True)]
         return "\n".join(lines)
-
 
     def _add_stitch(self, hexvalue):
         """

@@ -11,6 +11,7 @@ from crosstitch_helper.stitch_counter import StitchCounter
 
 from conf import palettes
 
+
 @click.command()
 @click.argument("image", type=click.File('rb'))
 @click.argument("palette_name")
@@ -24,7 +25,8 @@ def stitchify(image, palette_name, stitches_per_skein):
     """
     palette = getattr(palettes, palette_name, None)
     if not palette:
-        click.echo("palette '{}' not found in conf/palettes.py".format(palette))
+        click.echo(
+            "palette '{}' not found in conf/palettes.py".format(palette_name))
         sys.exit(1)
 
     image_tool = ImageTool(image)
@@ -41,6 +43,7 @@ def stitchify(image, palette_name, stitches_per_skein):
         click.echo("{}\t{}".format(
             palette[colour][0],
             math.ceil(1.0 * counter.stitch_count[colour]/stitches_per_skein)))
+
 
 if __name__ == "__main__":
     # pylint: disable=no-value-for-parameter

@@ -1,3 +1,6 @@
 click
+colormath
 imageio
 matplotlib
+numpy
+scikit-learn

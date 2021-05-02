@@ -4,11 +4,19 @@ Class for depicting floss palettes.
 
 import json
 
+from colormath.color_objects import LabColor, sRGBColor
+from colormath import color_conversions, color_diff
+import numpy as np
+from sklearn.neighbors import NearestNeighbors
+
 
 class Palette():
     """
     Floss palette
     """
+
+    _neighbor_graph = None
+    _palette_size_at_update = -1
 
     def __init__(self, colors=None):
         """
@@ -46,6 +54,44 @@ class Palette():
         with open(file_path, "w") as outfile:
             outfile.write(json.dumps(dicts, indent=indent))
 
+    def best_match(self, color):
+        """
+        Return the best matching floss color in the palette to the given color.
+
+        :color: an array containing the RGB values (in range 0-255) of the
+                color.
+        """
+        if self._palette_size_at_update != len(self.colors):
+            self._update_neighbor_graph()
+        rgbcolor = sRGBColor(*color, is_upscaled=True)
+        labcolor = color_conversions.convert_color(rgbcolor, LabColor)
+        _, indices = self._neighbor_graph.kneighbors(
+                np.array([np.array(labcolor.get_value_tuple())]))
+        return self.colors[indices[0][0]]
+
+    def _update_neighbor_graph(self):
+        """
+        Recalculate the nearest neighbors tree.
+        """
+        def _cielab_color_distance(colorarray1, colorarray2):
+            """
+            Return the CIE 1994 color difference of the two given colors.
+
+            The colors are provided as Numpy arrays containing the L, a and b
+            coordinates of the color.
+            """
+            labcolor1 = LabColor(*colorarray1)
+            labcolor2 = LabColor(*colorarray2)
+            return color_diff.delta_e_cie1994(labcolor1, labcolor2,
+                                              K_L=2, K_1=0.048, K_2=0.014)
+
+        data = np.array([np.array(c) for c in self.colors])
+        self._neighbor_graph = NearestNeighbors(n_neighbors=1,
+                                                algorithm="ball_tree",
+                                                metric=_cielab_color_distance
+                                                ).fit(data)
+        self._palette_size_at_update = len(self.colors)
+
 
 class FlossColor():
     """
@@ -70,6 +116,27 @@ class FlossColor():
         self.symbol_color = symbol_color
         self.color_number = color_number
         self.color_name = color_name
+        self._rgb = None
+        self._lab = None
+
+    @property
+    def rgbcolor(self):
+        """
+        Return colormath.sRGBColor representation of the color
+        """
+        if not self._rgb:
+            self._rgb = sRGBColor.new_from_rgb_hex(self.color)
+        return self._rgb
+
+    @property
+    def labcolor(self):
+        """
+        Return colormath.LabColor representation of the color
+        """
+        if not self._lab:
+            self._lab = color_conversions.convert_color(self.rgbcolor,
+                                                        LabColor)
+        return self._lab
 
     def __repr__(self):
         """
@@ -102,3 +169,19 @@ class FlossColor():
                 "color_number": self.color_number,
                 "color_name": self.color_name,
                 }
+
+    def color_difference(self, color):
+        """
+        Return the CIE 1994 color difference to the given color.
+
+        The recommended values for textiles are used for the weighting factors
+        K_L, K_1 and K_2.
+        """
+        return color_diff.delta_e_cie1994(self.labcolor, color.labcolor,
+                                          K_L=2, K_1=0.048, K_2=0.014)
+
+    def __array__(self):
+        """
+        Return an array representation of the CIELab color of this floss.
+        """
+        return np.array(self.labcolor.get_value_tuple())

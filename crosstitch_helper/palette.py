@@ -60,7 +60,7 @@ class FlossColor():
         :color: The hex value of the color, e.g. "#838a29"
         :symbol: The symbol used for the color in charts. Defaults to "x"
                  unless given.
-        :symbol_color: Color used when drawing the symbol. E.g. ("#000000#)
+        :symbol_color: Color used when drawing the symbol. E.g. ("#000000")
         :color_number: Floss color chart number, e.g. "DMC 581".
         :color_name: Floss color name, e.g. "Moss Green"
         """

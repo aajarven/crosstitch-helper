@@ -170,16 +170,6 @@ class FlossColor():
                 "color_name": self.color_name,
                 }
 
-    def color_difference(self, color):
-        """
-        Return the CIE 1994 color difference to the given color.
-
-        The recommended values for textiles are used for the weighting factors
-        K_L, K_1 and K_2.
-        """
-        return color_diff.delta_e_cie1994(self.labcolor, color.labcolor,
-                                          K_L=2, K_1=0.048, K_2=0.014)
-
     def __array__(self):
         """
         Return an array representation of the CIELab color of this floss.

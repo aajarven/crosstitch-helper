@@ -1,0 +1,3425 @@
+[
+    {
+        "color": "#FFE2E2",
+        "symbol": "\u25a0",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3713",
+        "color_name": "Salmon Very Light"
+    },
+    {
+        "color": "#FFC9C9",
+        "symbol": "\u25a1",
+        "symbol_color": "#000000",
+        "color_number": "DMC 761",
+        "color_name": "Salmon Light"
+    },
+    {
+        "color": "#F5ADAD",
+        "symbol": "\u25a3",
+        "symbol_color": "#000000",
+        "color_number": "DMC 760",
+        "color_name": "Salmon"
+    },
+    {
+        "color": "#F18787",
+        "symbol": "\u25a4",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3712",
+        "color_name": "Salmon Medium"
+    },
+    {
+        "color": "#E36D6D",
+        "symbol": "\u25a5",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3328",
+        "color_name": "Salmon Dark"
+    },
+    {
+        "color": "#BF2D2D",
+        "symbol": "\u25a6",
+        "symbol_color": "#000000",
+        "color_number": "DMC 347",
+        "color_name": "Salmon Very Dark"
+    },
+    {
+        "color": "#FED7CC",
+        "symbol": "\u25a7",
+        "symbol_color": "#000000",
+        "color_number": "DMC 353",
+        "color_name": "Peach"
+    },
+    {
+        "color": "#FD9C97",
+        "symbol": "\u25a8",
+        "symbol_color": "#000000",
+        "color_number": "DMC 352",
+        "color_name": "Coral Light"
+    },
+    {
+        "color": "#E96A67",
+        "symbol": "\u25a9",
+        "symbol_color": "#000000",
+        "color_number": "DMC 351",
+        "color_name": "Coral"
+    },
+    {
+        "color": "#E04848",
+        "symbol": "\u25aa",
+        "symbol_color": "#000000",
+        "color_number": "DMC 350",
+        "color_name": "Coral Medium"
+    },
+    {
+        "color": "#D21035",
+        "symbol": "\u25ab",
+        "symbol_color": "#000000",
+        "color_number": "DMC 349",
+        "color_name": "Coral Dark"
+    },
+    {
+        "color": "#BB051F",
+        "symbol": "\u25ac",
+        "symbol_color": "#000000",
+        "color_number": "DMC 817",
+        "color_name": "Coral Red Very Dark"
+    },
+    {
+        "color": "#FFCBD5",
+        "symbol": "\u25ad",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3708",
+        "color_name": "Melon Light"
+    },
+    {
+        "color": "#FFADBC",
+        "symbol": "\u25ae",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3706",
+        "color_name": "Melon Medium"
+    },
+    {
+        "color": "#FF7992",
+        "symbol": "\u25af",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3705",
+        "color_name": "Melon Dark"
+    },
+    {
+        "color": "#E74967",
+        "symbol": "\u25b0",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3801",
+        "color_name": "Melon Very Dark"
+    },
+    {
+        "color": "#E31D42",
+        "symbol": "\u25b1",
+        "symbol_color": "#000000",
+        "color_number": "DMC 666",
+        "color_name": "Bright Red"
+    },
+    {
+        "color": "#C72B3B",
+        "symbol": "\u25b2",
+        "symbol_color": "#000000",
+        "color_number": "DMC 321",
+        "color_name": "Red"
+    },
+    {
+        "color": "#B71F33",
+        "symbol": "\u25b3",
+        "symbol_color": "#000000",
+        "color_number": "DMC 304",
+        "color_name": "Red Medium"
+    },
+    {
+        "color": "#A7132B",
+        "symbol": "\u25b4",
+        "symbol_color": "#000000",
+        "color_number": "DMC 498",
+        "color_name": "Red Dark"
+    },
+    {
+        "color": "#970B23",
+        "symbol": "\u25b5",
+        "symbol_color": "#000000",
+        "color_number": "DMC 816",
+        "color_name": "Garnet"
+    },
+    {
+        "color": "#87071F",
+        "symbol": "\u25b6",
+        "symbol_color": "#000000",
+        "color_number": "DMC 815",
+        "color_name": "Garnet Medium"
+    },
+    {
+        "color": "#7B001B",
+        "symbol": "\u25b7",
+        "symbol_color": "#000000",
+        "color_number": "DMC 814",
+        "color_name": "Garnet Dark"
+    },
+    {
+        "color": "#FFB2BB",
+        "symbol": "\u25b8",
+        "symbol_color": "#000000",
+        "color_number": "DMC 894",
+        "color_name": "Carnation Very Light"
+    },
+    {
+        "color": "#FC90A2",
+        "symbol": "\u25b9",
+        "symbol_color": "#000000",
+        "color_number": "DMC 893",
+        "color_name": "Carnation Light"
+    },
+    {
+        "color": "#FF798C",
+        "symbol": "\u25bc",
+        "symbol_color": "#000000",
+        "color_number": "DMC 892",
+        "color_name": "Carnation Medium"
+    },
+    {
+        "color": "#FF5773",
+        "symbol": "\u25bd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 891",
+        "color_name": "Carnation Dark"
+    },
+    {
+        "color": "#FFDFD9",
+        "symbol": "\u25be",
+        "symbol_color": "#000000",
+        "color_number": "DMC 818",
+        "color_name": "Baby Pink"
+    },
+    {
+        "color": "#FDB5B5",
+        "symbol": "\u25bf",
+        "symbol_color": "#000000",
+        "color_number": "DMC 957",
+        "color_name": "Geranium Pale"
+    },
+    {
+        "color": "#FF9191",
+        "symbol": "\u25c0",
+        "symbol_color": "#000000",
+        "color_number": "DMC 956",
+        "color_name": "Geranium"
+    },
+    {
+        "color": "#BA4A4A",
+        "symbol": "\u25c1",
+        "symbol_color": "#000000",
+        "color_number": "DMC 309",
+        "color_name": "Rose Dark"
+    },
+    {
+        "color": "#FFD7D7",
+        "symbol": "\u25c2",
+        "symbol_color": "#000000",
+        "color_number": "DMC 963",
+        "color_name": "Dusty Rose Ultra Very Light"
+    },
+    {
+        "color": "#FFBDBD",
+        "symbol": "\u25c3",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3716",
+        "color_name": "Dusty Rose Medium Very Light"
+    },
+    {
+        "color": "#E68A8A",
+        "symbol": "\u25c6",
+        "symbol_color": "#000000",
+        "color_number": "DMC 962",
+        "color_name": "Dusty Rose Medium"
+    },
+    {
+        "color": "#CF7373",
+        "symbol": "\u25c7",
+        "symbol_color": "#000000",
+        "color_number": "DMC 961",
+        "color_name": "Dusty Rose Dark"
+    },
+    {
+        "color": "#EA8699",
+        "symbol": "\u25c8",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3833",
+        "color_name": "Raspberry Light"
+    },
+    {
+        "color": "#DB556E",
+        "symbol": "\u25c9",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3832",
+        "color_name": "Raspberry Medium"
+    },
+    {
+        "color": "#B32F48",
+        "symbol": "\u25ca",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3831",
+        "color_name": "Raspberry Dark"
+    },
+    {
+        "color": "#913546",
+        "symbol": "\u25cb",
+        "symbol_color": "#000000",
+        "color_number": "DMC 777",
+        "color_name": "Raspberry Very Dark"
+    },
+    {
+        "color": "#FFEEEB",
+        "symbol": "\u25cc",
+        "symbol_color": "#000000",
+        "color_number": "DMC 819",
+        "color_name": "Baby Pink Light"
+    },
+    {
+        "color": "#FBADB4",
+        "symbol": "\u25cd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3326",
+        "color_name": "Rose Light"
+    },
+    {
+        "color": "#FCB0B9",
+        "symbol": "\u25ce",
+        "symbol_color": "#000000",
+        "color_number": "DMC 776",
+        "color_name": "Pink Medium"
+    },
+    {
+        "color": "#F27688",
+        "symbol": "\u25cf",
+        "symbol_color": "#000000",
+        "color_number": "DMC 899",
+        "color_name": "Rose Medium"
+    },
+    {
+        "color": "#EE546E",
+        "symbol": "\u25d0",
+        "symbol_color": "#000000",
+        "color_number": "DMC 335",
+        "color_name": "Rose"
+    },
+    {
+        "color": "#B33B4B",
+        "symbol": "\u25d1",
+        "symbol_color": "#000000",
+        "color_number": "DMC 326",
+        "color_name": "Rose Very Dark"
+    },
+    {
+        "color": "#F0CED4",
+        "symbol": "\u25d2",
+        "symbol_color": "#000000",
+        "color_number": "DMC 151",
+        "color_name": "Dusty Rose Very Light"
+    },
+    {
+        "color": "#E4A6AC",
+        "symbol": "\u25d3",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3354",
+        "color_name": "Dusty Rose Light"
+    },
+    {
+        "color": "#E8879B",
+        "symbol": "\u25d4",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3733",
+        "color_name": "Dusty Rose"
+    },
+    {
+        "color": "#DA6783",
+        "symbol": "\u25d5",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3731",
+        "color_name": "Dusty Rose Very Dark"
+    },
+    {
+        "color": "#BC4365",
+        "symbol": "\u25d6",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3350",
+        "color_name": "Dusty Rose Ultra Dark"
+    },
+    {
+        "color": "#AB0249",
+        "symbol": "\u25d7",
+        "symbol_color": "#000000",
+        "color_number": "DMC 150",
+        "color_name": "Dusty Rose Ultra Very Dark"
+    },
+    {
+        "color": "#FBBFC2",
+        "symbol": "\u25dc",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3689",
+        "color_name": "Mauve Light"
+    },
+    {
+        "color": "#E7A9AC",
+        "symbol": "\u25dd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3688",
+        "color_name": "Mauve Medium"
+    },
+    {
+        "color": "#C96B70",
+        "symbol": "\u25de",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3687",
+        "color_name": "Mauve"
+    },
+    {
+        "color": "#AB3357",
+        "symbol": "\u25df",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3803",
+        "color_name": "Mauve Dark"
+    },
+    {
+        "color": "#881531",
+        "symbol": "\u25e0",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3685",
+        "color_name": "Mauve Very Dark"
+    },
+    {
+        "color": "#FFC0CD",
+        "symbol": "\u25e1",
+        "symbol_color": "#000000",
+        "color_number": "DMC 605",
+        "color_name": "Cranberry Very Light"
+    },
+    {
+        "color": "#FFB0BE",
+        "symbol": "\u25e2",
+        "symbol_color": "#000000",
+        "color_number": "DMC 604",
+        "color_name": "Cranberry Light"
+    },
+    {
+        "color": "#FFA4BE",
+        "symbol": "\u25e3",
+        "symbol_color": "#000000",
+        "color_number": "DMC 603",
+        "color_name": "Cranberry"
+    },
+    {
+        "color": "#E24874",
+        "symbol": "\u25e4",
+        "symbol_color": "#000000",
+        "color_number": "DMC 602",
+        "color_name": "Cranberry Medium"
+    },
+    {
+        "color": "#D1286A",
+        "symbol": "\u25e5",
+        "symbol_color": "#000000",
+        "color_number": "DMC 601",
+        "color_name": "Cranberry Dark"
+    },
+    {
+        "color": "#CD2F63",
+        "symbol": "\u25e7",
+        "symbol_color": "#000000",
+        "color_number": "DMC 600",
+        "color_name": "Cranberry Very Dark"
+    },
+    {
+        "color": "#FF8CAE",
+        "symbol": "\u25e8",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3806",
+        "color_name": "Cyclamen Pink Light"
+    },
+    {
+        "color": "#F3478B",
+        "symbol": "\u25e9",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3805",
+        "color_name": "Cyclamen Pink"
+    },
+    {
+        "color": "#E02876",
+        "symbol": "\u25ea",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3804",
+        "color_name": "Cyclamen Pink Dark"
+    },
+    {
+        "color": "#F4AED7",
+        "symbol": "\u25eb",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3609",
+        "color_name": "Plum Ultra Light"
+    },
+    {
+        "color": "#EA9CC4",
+        "symbol": "\u25ec",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3608",
+        "color_name": "Plum Very Light"
+    },
+    {
+        "color": "#C54989",
+        "symbol": "\u25ed",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3607",
+        "color_name": "Plum Light"
+    },
+    {
+        "color": "#9C2462",
+        "symbol": "\u25ee",
+        "symbol_color": "#000000",
+        "color_number": "DMC 718",
+        "color_name": "Plum"
+    },
+    {
+        "color": "#9B1359",
+        "symbol": "\u25f0",
+        "symbol_color": "#000000",
+        "color_number": "DMC 917",
+        "color_name": "Plum Medium"
+    },
+    {
+        "color": "#820043",
+        "symbol": "\u25f1",
+        "symbol_color": "#000000",
+        "color_number": "DMC 915",
+        "color_name": "Plum Dark"
+    },
+    {
+        "color": "#FFDFD7",
+        "symbol": "\u25f2",
+        "symbol_color": "#000000",
+        "color_number": "DMC 225",
+        "color_name": "Shell Pink Ultra Very Light"
+    },
+    {
+        "color": "#EBB7AF",
+        "symbol": "\u25f3",
+        "symbol_color": "#000000",
+        "color_number": "DMC 224",
+        "color_name": "Shell Pink Very Light"
+    },
+    {
+        "color": "#E2A099",
+        "symbol": "\u25f4",
+        "symbol_color": "#000000",
+        "color_number": "DMC 152",
+        "color_name": "Shell Pink Medium Light"
+    },
+    {
+        "color": "#CC847C",
+        "symbol": "\u25f5",
+        "symbol_color": "#000000",
+        "color_number": "DMC 223",
+        "color_name": "Shell Pink Light"
+    },
+    {
+        "color": "#BC6C64",
+        "symbol": "\u25f6",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3722",
+        "color_name": "Shell Pink Medium"
+    },
+    {
+        "color": "#A14B51",
+        "symbol": "\u25f7",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3721",
+        "color_name": "Shell Pink Dark"
+    },
+    {
+        "color": "#883E43",
+        "symbol": "\u25f8",
+        "symbol_color": "#000000",
+        "color_number": "DMC 221",
+        "color_name": "Shell Pink Very Dark"
+    },
+    {
+        "color": "#DFB3BB",
+        "symbol": "\u25f9",
+        "symbol_color": "#000000",
+        "color_number": "DMC 778",
+        "color_name": "Antique Mauve Very Light"
+    },
+    {
+        "color": "#DBA9B2",
+        "symbol": "\u25fa",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3727",
+        "color_name": "Antique Mauve Light"
+    },
+    {
+        "color": "#B7737F",
+        "symbol": "\u25ff",
+        "symbol_color": "#000000",
+        "color_number": "DMC 316",
+        "color_name": "Antique Mauve Medium"
+    },
+    {
+        "color": "#9B5B66",
+        "symbol": "\ud83d\udf84",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3726",
+        "color_name": "Antique Mauve Dark"
+    },
+    {
+        "color": "#814952",
+        "symbol": "\ud83d\udf8b",
+        "symbol_color": "#000000",
+        "color_number": "DMC 315",
+        "color_name": "Antique Mauve Medium Dark"
+    },
+    {
+        "color": "#714149",
+        "symbol": "\ud83d\udf96",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3802",
+        "color_name": "Antique Mauve Very Darkv"
+    },
+    {
+        "color": "#822637",
+        "symbol": "\ud83d\udf99",
+        "symbol_color": "#000000",
+        "color_number": "DMC 902",
+        "color_name": "Garnet Very Dark"
+    },
+    {
+        "color": "#D7CBD3",
+        "symbol": "\ud83d\udf9a",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3743",
+        "color_name": "Antique Violet Very Light"
+    },
+    {
+        "color": "#B79DA7",
+        "symbol": "\ud83d\udf9b",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3042",
+        "color_name": "Antique Violet Light"
+    },
+    {
+        "color": "#956F7C",
+        "symbol": "\ud83d\udf9c",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3041",
+        "color_name": "Antique Violet Medium"
+    },
+    {
+        "color": "#785762",
+        "symbol": "\ud83d\udf9f",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3740",
+        "color_name": "Antique Violet Dark"
+    },
+    {
+        "color": "#BA91AA",
+        "symbol": "\ud83d\udfa0",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3836",
+        "color_name": "Grape Light"
+    },
+    {
+        "color": "#946083",
+        "symbol": "\ud83d\udfa1",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3835",
+        "color_name": "Grape Medium"
+    },
+    {
+        "color": "#72375D",
+        "symbol": "\ud83d\udfa7",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3834",
+        "color_name": "Grape Dark"
+    },
+    {
+        "color": "#572433",
+        "symbol": "\ud83d\udfa8",
+        "symbol_color": "#000000",
+        "color_number": "DMC 154",
+        "color_name": "Grape Very Dark"
+    },
+    {
+        "color": "#E3CBE3",
+        "symbol": "\ud83d\udfae",
+        "symbol_color": "#000000",
+        "color_number": "DMC 211",
+        "color_name": "Lavender Light"
+    },
+    {
+        "color": "#D29FC3",
+        "symbol": "\ud83d\udfaf",
+        "symbol_color": "#000000",
+        "color_number": "DMC 210",
+        "color_name": "Lavender Medium"
+    },
+    {
+        "color": "#A37BA7",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 209",
+        "color_name": "Lavender Dark"
+    },
+    {
+        "color": "#835B8B",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 208",
+        "color_name": "Lavender Very Dark"
+    },
+    {
+        "color": "#6C3A6E",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3837",
+        "color_name": "Lavender Ultra Dark"
+    },
+    {
+        "color": "#633666",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 327",
+        "color_name": "Violet Dark"
+    },
+    {
+        "color": "#E6CCD9",
+        "symbol": "\ud83d\udfb5",
+        "symbol_color": "#000000",
+        "color_number": "DMC 153",
+        "color_name": "Violet Very Light"
+    },
+    {
+        "color": "#DBB3CB",
+        "symbol": "\ud83d\udfba",
+        "symbol_color": "#000000",
+        "color_number": "DMC 554",
+        "color_name": "Violet Light"
+    },
+    {
+        "color": "#A3638B",
+        "symbol": "\ud83d\udfbb",
+        "symbol_color": "#000000",
+        "color_number": "DMC 553",
+        "color_name": "Violet"
+    },
+    {
+        "color": "#803A6B",
+        "symbol": "\ud83d\udfbf",
+        "symbol_color": "#000000",
+        "color_number": "DMC 552",
+        "color_name": "Violet Medium"
+    },
+    {
+        "color": "#5C184E",
+        "symbol": "\ud83d\udfc0",
+        "symbol_color": "#000000",
+        "color_number": "DMC 550",
+        "color_name": "Violet Very Dark"
+    },
+    {
+        "color": "#D3D7ED",
+        "symbol": "\ud83d\udfc2",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3747",
+        "color_name": "Blue Violet Very Light"
+    },
+    {
+        "color": "#B7BFDD",
+        "symbol": "\ud83d\udfc4",
+        "symbol_color": "#000000",
+        "color_number": "DMC 341",
+        "color_name": "Blue Violet Light"
+    },
+    {
+        "color": "#A3AED1",
+        "symbol": "\ud83d\udfc6",
+        "symbol_color": "#000000",
+        "color_number": "DMC 156",
+        "color_name": "Blue Violet Medium Light"
+    },
+    {
+        "color": "#ADA7C7",
+        "symbol": "\ud83d\udfc8",
+        "symbol_color": "#000000",
+        "color_number": "DMC 340",
+        "color_name": "Blue Violet Medium"
+    },
+    {
+        "color": "#9891B6",
+        "symbol": "\ud83d\udfc9",
+        "symbol_color": "#000000",
+        "color_number": "DMC 155",
+        "color_name": "Blue Violet Medium Dark"
+    },
+    {
+        "color": "#776B98",
+        "symbol": "\ud83d\udfca",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3746",
+        "color_name": "Blue Violet Dark"
+    },
+    {
+        "color": "#5C5478",
+        "symbol": "\ud83d\udfcb",
+        "symbol_color": "#000000",
+        "color_number": "DMC 333",
+        "color_name": "Blue Violet Very Dark"
+    },
+    {
+        "color": "#BBC3D9",
+        "symbol": "\ud83d\udfcc",
+        "symbol_color": "#000000",
+        "color_number": "DMC 157",
+        "color_name": "Cornflower Blue Very Light"
+    },
+    {
+        "color": "#8F9CC1",
+        "symbol": "\ud83d\udfce",
+        "symbol_color": "#000000",
+        "color_number": "DMC 794",
+        "color_name": "Cornflower Blue Light"
+    },
+    {
+        "color": "#707DA2",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 793",
+        "color_name": "Cornflower Blue Medium"
+    },
+    {
+        "color": "#60678C",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3807",
+        "color_name": "Cornflower Blue"
+    },
+    {
+        "color": "#555B7B",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 792",
+        "color_name": "Cornflower Blue Dark"
+    },
+    {
+        "color": "#4C526E",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 158",
+        "color_name": "Cornflower Blue Very Dark"
+    },
+    {
+        "color": "#464563",
+        "symbol": "\ud83d\udfd0",
+        "symbol_color": "#000000",
+        "color_number": "DMC 791",
+        "color_name": "Cornflower Blue Very Dark"
+    },
+    {
+        "color": "#B0C0DA",
+        "symbol": "\ud83d\udfd2",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3840",
+        "color_name": "Lavender Blue Light"
+    },
+    {
+        "color": "#7B8EAB",
+        "symbol": "\ud83d\udfd3",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3839",
+        "color_name": "Lavender Blue Medium"
+    },
+    {
+        "color": "#5C7294",
+        "symbol": "\u2600",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3838",
+        "color_name": "Lavender Blue Dark"
+    },
+    {
+        "color": "#C0CCDE",
+        "symbol": "\u2601",
+        "symbol_color": "#000000",
+        "color_number": "DMC 800",
+        "color_name": "Delft Blue Pale"
+    },
+    {
+        "color": "#94A8C6",
+        "symbol": "\u2602",
+        "symbol_color": "#000000",
+        "color_number": "DMC 809",
+        "color_name": "Delft Blue"
+    },
+    {
+        "color": "#748EB6",
+        "symbol": "\u2604",
+        "symbol_color": "#000000",
+        "color_number": "DMC 799",
+        "color_name": "Delft Blue Medium"
+    },
+    {
+        "color": "#466A8E",
+        "symbol": "\u2606",
+        "symbol_color": "#000000",
+        "color_number": "DMC 798",
+        "color_name": "Delft Blue Dark"
+    },
+    {
+        "color": "#13477D",
+        "symbol": "\u2607",
+        "symbol_color": "#000000",
+        "color_number": "DMC 797",
+        "color_name": "Royal Blue"
+    },
+    {
+        "color": "#11416D",
+        "symbol": "\u2608",
+        "symbol_color": "#000000",
+        "color_number": "DMC 796",
+        "color_name": "Royal Blue Dark"
+    },
+    {
+        "color": "#0E365C",
+        "symbol": "\u2609",
+        "symbol_color": "#000000",
+        "color_number": "DMC 820",
+        "color_name": "Royal Blue Very Dark"
+    },
+    {
+        "color": "#DBECF5",
+        "symbol": "\u260a",
+        "symbol_color": "#000000",
+        "color_number": "DMC 162",
+        "color_name": "Blue Ultra Very Light"
+    },
+    {
+        "color": "#BDDDED",
+        "symbol": "\u260b",
+        "symbol_color": "#000000",
+        "color_number": "DMC 827",
+        "color_name": "Blue Very Light"
+    },
+    {
+        "color": "#A1C2D7",
+        "symbol": "\u260c",
+        "symbol_color": "#000000",
+        "color_number": "DMC 813",
+        "color_name": "Blue Light"
+    },
+    {
+        "color": "#6B9EBF",
+        "symbol": "\u260d",
+        "symbol_color": "#000000",
+        "color_number": "DMC 826",
+        "color_name": "Blue Medium"
+    },
+    {
+        "color": "#4781A5",
+        "symbol": "\u2618",
+        "symbol_color": "#000000",
+        "color_number": "DMC 825",
+        "color_name": "Blue Dark"
+    },
+    {
+        "color": "#396987",
+        "symbol": "\u2619",
+        "symbol_color": "#000000",
+        "color_number": "DMC 824",
+        "color_name": "Blue Very Dark"
+    },
+    {
+        "color": "#30C2EC",
+        "symbol": "\u261a",
+        "symbol_color": "#000000",
+        "color_number": "DMC 996",
+        "color_name": "Electric Blue Medium"
+    },
+    {
+        "color": "#14AAD0",
+        "symbol": "\u261b",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3843",
+        "color_name": "Electric Blue"
+    },
+    {
+        "color": "#2696B6",
+        "symbol": "\u2620",
+        "symbol_color": "#000000",
+        "color_number": "DMC 995",
+        "color_name": "Electric Blue Dark"
+    },
+    {
+        "color": "#06E3E6",
+        "symbol": "\u2622",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3846",
+        "color_name": "Turquoise Bright Light"
+    },
+    {
+        "color": "#04C4CA",
+        "symbol": "\u2623",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3845",
+        "color_name": "Turquoise Bright Medium"
+    },
+    {
+        "color": "#12AEBA",
+        "symbol": "\u2625",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3844",
+        "color_name": "Turquoise Bright Dark"
+    },
+    {
+        "color": "#C7CAD7",
+        "symbol": "\u2627",
+        "symbol_color": "#000000",
+        "color_number": "DMC 159",
+        "color_name": "Blue Gray Light"
+    },
+    {
+        "color": "#999FB7",
+        "symbol": "\u2628",
+        "symbol_color": "#000000",
+        "color_number": "DMC 160",
+        "color_name": "Blue Gray Medium"
+    },
+    {
+        "color": "#7880A4",
+        "symbol": "\u2629",
+        "symbol_color": "#000000",
+        "color_number": "DMC 161",
+        "color_name": "Blue Gray"
+    },
+    {
+        "color": "#EEFCFC",
+        "symbol": "\u262a",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3756",
+        "color_name": "Baby Blue Ultra Very Light"
+    },
+    {
+        "color": "#D9EBF1",
+        "symbol": "\u262d",
+        "symbol_color": "#000000",
+        "color_number": "DMC 775",
+        "color_name": "Baby Blue Very Light"
+    },
+    {
+        "color": "#CDDFED",
+        "symbol": "\u262e",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3841",
+        "color_name": "Baby Blue Pale"
+    },
+    {
+        "color": "#B8D2E6",
+        "symbol": "\u262f",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3325",
+        "color_name": "Baby Blue Light"
+    },
+    {
+        "color": "#92B4CE",
+        "symbol": "\u2630",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3755",
+        "color_name": "Baby Blue"
+    },
+    {
+        "color": "#739FC1",
+        "symbol": "\u2631",
+        "symbol_color": "#000000",
+        "color_number": "DMC 334",
+        "color_name": "Baby Blue Medium"
+    },
+    {
+        "color": "#5A8FB8",
+        "symbol": "\u2632",
+        "symbol_color": "#000000",
+        "color_number": "DMC 322",
+        "color_name": "Baby Blue Dark"
+    },
+    {
+        "color": "#35668B",
+        "symbol": "\u2633",
+        "symbol_color": "#000000",
+        "color_number": "DMC 312",
+        "color_name": "Baby Blue Very Dark"
+    },
+    {
+        "color": "#2C597C",
+        "symbol": "\u2634",
+        "symbol_color": "#000000",
+        "color_number": "DMC 803",
+        "color_name": "Baby Blue Ultra Very Dark"
+    },
+    {
+        "color": "#253B73",
+        "symbol": "\u2635",
+        "symbol_color": "#000000",
+        "color_number": "DMC 336",
+        "color_name": "Navy Blue"
+    },
+    {
+        "color": "#213063",
+        "symbol": "\u2636",
+        "symbol_color": "#000000",
+        "color_number": "DMC 823",
+        "color_name": "Navy Blue Dark"
+    },
+    {
+        "color": "#1B2853",
+        "symbol": "\u2637",
+        "symbol_color": "#000000",
+        "color_number": "DMC 939",
+        "color_name": "Navy Blue Very Dark"
+    },
+    {
+        "color": "#DBE2E9",
+        "symbol": "\u2638",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3753",
+        "color_name": "Antique Blue Ultra Very Light"
+    },
+    {
+        "color": "#C7D1DB",
+        "symbol": "\u2639",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3752",
+        "color_name": "Antique Blue Very Light"
+    },
+    {
+        "color": "#A2B5C6",
+        "symbol": "\u263a",
+        "symbol_color": "#000000",
+        "color_number": "DMC 932",
+        "color_name": "Antique Blue Light"
+    },
+    {
+        "color": "#6A859E",
+        "symbol": "\u263b",
+        "symbol_color": "#000000",
+        "color_number": "DMC 931",
+        "color_name": "Antique Blue Medium"
+    },
+    {
+        "color": "#455C71",
+        "symbol": "\u263c",
+        "symbol_color": "#000000",
+        "color_number": "DMC 930",
+        "color_name": "Antique Blue Dark"
+    },
+    {
+        "color": "#384C5E",
+        "symbol": "\u263d",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3750",
+        "color_name": "Antique Blue Very Dark"
+    },
+    {
+        "color": "#C5E8ED",
+        "symbol": "\u263e",
+        "symbol_color": "#000000",
+        "color_number": "DMC 828",
+        "color_name": "Sky Blue Very Light"
+    },
+    {
+        "color": "#ACD8E2",
+        "symbol": "\u263f",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3761",
+        "color_name": "Sky Blue Light"
+    },
+    {
+        "color": "#7EB1C8",
+        "symbol": "\u2640",
+        "symbol_color": "#000000",
+        "color_number": "DMC 519",
+        "color_name": "Sky Blue"
+    },
+    {
+        "color": "#4F93A7",
+        "symbol": "\u2641",
+        "symbol_color": "#000000",
+        "color_number": "DMC 518",
+        "color_name": "Wedgewood Light"
+    },
+    {
+        "color": "#3E85A2",
+        "symbol": "\u2642",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3760",
+        "color_name": "Wedgewood Medium"
+    },
+    {
+        "color": "#3B768F",
+        "symbol": "\u2643",
+        "symbol_color": "#000000",
+        "color_number": "DMC 517",
+        "color_name": "Wedgewood Dark"
+    },
+    {
+        "color": "#32667C",
+        "symbol": "\u2644",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3842",
+        "color_name": "Wedgewood Very Dark"
+    },
+    {
+        "color": "#1C5066",
+        "symbol": "\u2645",
+        "symbol_color": "#000000",
+        "color_number": "DMC 311",
+        "color_name": "Wedgewood Ultra Very Dark"
+    },
+    {
+        "color": "#E5FCFD",
+        "symbol": "\u2646",
+        "symbol_color": "#000000",
+        "color_number": "DMC 747",
+        "color_name": "Peacock Blue Very Light"
+    },
+    {
+        "color": "#99CFD9",
+        "symbol": "\u2647",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3766",
+        "color_name": "Peacock Blue Light"
+    },
+    {
+        "color": "#64ABBA",
+        "symbol": "\u2654",
+        "symbol_color": "#000000",
+        "color_number": "DMC 807",
+        "color_name": "Peacock Blue"
+    },
+    {
+        "color": "#3D95A5",
+        "symbol": "\u2655",
+        "symbol_color": "#000000",
+        "color_number": "DMC 806",
+        "color_name": "Peacock Blue Dark"
+    },
+    {
+        "color": "#347F8C",
+        "symbol": "\u2656",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3765",
+        "color_name": "Peacock Blue Very Dark"
+    },
+    {
+        "color": "#BCE3E6",
+        "symbol": "\u2657",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3811",
+        "color_name": "Turquoise Very Light"
+    },
+    {
+        "color": "#90C3CC",
+        "symbol": "\u2658",
+        "symbol_color": "#000000",
+        "color_number": "DMC 598",
+        "color_name": "Turquoise Light"
+    },
+    {
+        "color": "#5BA3B3",
+        "symbol": "\u2659",
+        "symbol_color": "#000000",
+        "color_number": "DMC 597",
+        "color_name": "Turquoise"
+    },
+    {
+        "color": "#488E9A",
+        "symbol": "\u265a",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3810",
+        "color_name": "Turquoise Dark"
+    },
+    {
+        "color": "#3F7C85",
+        "symbol": "\u265b",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3809",
+        "color_name": "Turquoise Vy Dark"
+    },
+    {
+        "color": "#366970",
+        "symbol": "\u265c",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3808",
+        "color_name": "Turquoise Ultra Very Dark"
+    },
+    {
+        "color": "#DDE3E3",
+        "symbol": "\u265d",
+        "symbol_color": "#000000",
+        "color_number": "DMC 928",
+        "color_name": "Gray Green Very Light"
+    },
+    {
+        "color": "#BDCBCB",
+        "symbol": "\u265e",
+        "symbol_color": "#000000",
+        "color_number": "DMC 927",
+        "color_name": "Gray Green Light"
+    },
+    {
+        "color": "#98AEAE",
+        "symbol": "\u265f",
+        "symbol_color": "#000000",
+        "color_number": "DMC 926",
+        "color_name": "Gray Green Medium"
+    },
+    {
+        "color": "#657F7F",
+        "symbol": "\u2660",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3768",
+        "color_name": "Gray Green Dark"
+    },
+    {
+        "color": "#566A6A",
+        "symbol": "\u2661",
+        "symbol_color": "#000000",
+        "color_number": "DMC 924",
+        "color_name": "Gray Green Vy Dark"
+    },
+    {
+        "color": "#52B3AE",
+        "symbol": "\u2662",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3849",
+        "color_name": "Teal Green Light"
+    },
+    {
+        "color": "#419392",
+        "symbol": "\u2663",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3848",
+        "color_name": "Teal Green Medium"
+    },
+    {
+        "color": "#347D75",
+        "symbol": "\u2664",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3847",
+        "color_name": "Teal Green Dark"
+    },
+    {
+        "color": "#A9E2D8",
+        "symbol": "\u2665",
+        "symbol_color": "#000000",
+        "color_number": "DMC 964",
+        "color_name": "Sea Green Light"
+    },
+    {
+        "color": "#59C7B4",
+        "symbol": "\u2666",
+        "symbol_color": "#000000",
+        "color_number": "DMC 959",
+        "color_name": "Sea Green Medium"
+    },
+    {
+        "color": "#3EB6A1",
+        "symbol": "\u2667",
+        "symbol_color": "#000000",
+        "color_number": "DMC 958",
+        "color_name": "Sea Green Dark"
+    },
+    {
+        "color": "#2F8C84",
+        "symbol": "\u2669",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3812",
+        "color_name": "Sea Green Very Dark"
+    },
+    {
+        "color": "#49B3A1",
+        "symbol": "\u266a",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3851",
+        "color_name": "Green Bright Light"
+    },
+    {
+        "color": "#3D9384",
+        "symbol": "\u266b",
+        "symbol_color": "#000000",
+        "color_number": "DMC 943",
+        "color_name": "Green Bright Medium"
+    },
+    {
+        "color": "#378477",
+        "symbol": "\u266c",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3850",
+        "color_name": "Green Bright Dark"
+    },
+    {
+        "color": "#90C0B4",
+        "symbol": "\u266d",
+        "symbol_color": "#000000",
+        "color_number": "DMC 993",
+        "color_name": "Aquamarine Very Light"
+    },
+    {
+        "color": "#6FAE9F",
+        "symbol": "\u266e",
+        "symbol_color": "#000000",
+        "color_number": "DMC 992",
+        "color_name": "Aquamarine Light"
+    },
+    {
+        "color": "#508B7D",
+        "symbol": "\u266f",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3814",
+        "color_name": "Aquamarine"
+    },
+    {
+        "color": "#477B6E",
+        "symbol": "\u2672",
+        "symbol_color": "#000000",
+        "color_number": "DMC 991",
+        "color_name": "Aquamarine Dark"
+    },
+    {
+        "color": "#B9D7C0",
+        "symbol": "\u267a",
+        "symbol_color": "#000000",
+        "color_number": "DMC 966",
+        "color_name": "Jade Ultra Very Light"
+    },
+    {
+        "color": "#A7CDAF",
+        "symbol": "\u267b",
+        "symbol_color": "#000000",
+        "color_number": "DMC 564",
+        "color_name": "Jade Very Light"
+    },
+    {
+        "color": "#8FC098",
+        "symbol": "\u267c",
+        "symbol_color": "#000000",
+        "color_number": "DMC 563",
+        "color_name": "Jade Light"
+    },
+    {
+        "color": "#53976A",
+        "symbol": "\u2680",
+        "symbol_color": "#000000",
+        "color_number": "DMC 562",
+        "color_name": "Jade Medium"
+    },
+    {
+        "color": "#338362",
+        "symbol": "\u2681",
+        "symbol_color": "#000000",
+        "color_number": "DMC 505",
+        "color_name": "Jade Green"
+    },
+    {
+        "color": "#99C3AA",
+        "symbol": "\u2682",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3817",
+        "color_name": "Celadon Green Light"
+    },
+    {
+        "color": "#65A57D",
+        "symbol": "\u2683",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3816",
+        "color_name": "Celadon Green"
+    },
+    {
+        "color": "#4D8361",
+        "symbol": "\u2684",
+        "symbol_color": "#000000",
+        "color_number": "DMC 163",
+        "color_name": "Celadon Green Medium"
+    },
+    {
+        "color": "#477759",
+        "symbol": "\u2685",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3815",
+        "color_name": "Celadon Green Dark"
+    },
+    {
+        "color": "#2C6A45",
+        "symbol": "\u2686",
+        "symbol_color": "#000000",
+        "color_number": "DMC 561",
+        "color_name": "Celadon Green VD"
+    },
+    {
+        "color": "#C4DECC",
+        "symbol": "\u2687",
+        "symbol_color": "#000000",
+        "color_number": "DMC 504",
+        "color_name": "Blue Green Very Light"
+    },
+    {
+        "color": "#B2D4BD",
+        "symbol": "\u2688",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3813",
+        "color_name": "Blue Green Light"
+    },
+    {
+        "color": "#7BAC94",
+        "symbol": "\u2689",
+        "symbol_color": "#000000",
+        "color_number": "DMC 503",
+        "color_name": "Blue Green Medium"
+    },
+    {
+        "color": "#5B9071",
+        "symbol": "\u268a",
+        "symbol_color": "#000000",
+        "color_number": "DMC 502",
+        "color_name": "Blue Green"
+    },
+    {
+        "color": "#396F52",
+        "symbol": "\u268b",
+        "symbol_color": "#000000",
+        "color_number": "DMC 501",
+        "color_name": "Blue Green Dark"
+    },
+    {
+        "color": "#044D33",
+        "symbol": "\u268c",
+        "symbol_color": "#000000",
+        "color_number": "DMC 500",
+        "color_name": "Blue Green Very Dark"
+    },
+    {
+        "color": "#A2D6AD",
+        "symbol": "\u268d",
+        "symbol_color": "#000000",
+        "color_number": "DMC 955",
+        "color_name": "Nile Green Light"
+    },
+    {
+        "color": "#88BA91",
+        "symbol": "\u268e",
+        "symbol_color": "#000000",
+        "color_number": "DMC 954",
+        "color_name": "Nile Green"
+    },
+    {
+        "color": "#6DAB77",
+        "symbol": "\u268f",
+        "symbol_color": "#000000",
+        "color_number": "DMC 913",
+        "color_name": "Nile Green Medium"
+    },
+    {
+        "color": "#1B9D6B",
+        "symbol": "\u2690",
+        "symbol_color": "#000000",
+        "color_number": "DMC 912",
+        "color_name": "Emerald Green Light"
+    },
+    {
+        "color": "#189065",
+        "symbol": "\u2691",
+        "symbol_color": "#000000",
+        "color_number": "DMC 911",
+        "color_name": "Emerald Green Medium"
+    },
+    {
+        "color": "#187E56",
+        "symbol": "\u2692",
+        "symbol_color": "#000000",
+        "color_number": "DMC 910",
+        "color_name": "Emerald Green Dark"
+    },
+    {
+        "color": "#156F49",
+        "symbol": "\u2696",
+        "symbol_color": "#000000",
+        "color_number": "DMC 909",
+        "color_name": "Emerald Green Very Dark"
+    },
+    {
+        "color": "#115A3B",
+        "symbol": "\u2699",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3818",
+        "color_name": "Emerald Green Ultra Very Dark"
+    },
+    {
+        "color": "#D7EDCC",
+        "symbol": "\u269b",
+        "symbol_color": "#000000",
+        "color_number": "DMC 369",
+        "color_name": "Pistachio Green Very Light"
+    },
+    {
+        "color": "#A6C298",
+        "symbol": "\u269d",
+        "symbol_color": "#000000",
+        "color_number": "DMC 368",
+        "color_name": "Pistachio Green Light"
+    },
+    {
+        "color": "#69885A",
+        "symbol": "\u26a2",
+        "symbol_color": "#000000",
+        "color_number": "DMC 320",
+        "color_name": "Pistachio Green Medium"
+    },
+    {
+        "color": "#617A52",
+        "symbol": "\u26a3",
+        "symbol_color": "#000000",
+        "color_number": "DMC 367",
+        "color_name": "Pistachio Green Dark"
+    },
+    {
+        "color": "#205F2E",
+        "symbol": "\u26a4",
+        "symbol_color": "#000000",
+        "color_number": "DMC 319",
+        "color_name": "Pistachio Grn Very Dark"
+    },
+    {
+        "color": "#184923",
+        "symbol": "\u26a5",
+        "symbol_color": "#000000",
+        "color_number": "DMC 890",
+        "color_name": "Pistachio Grn Ultra Very Dark"
+    },
+    {
+        "color": "#C8D8B8",
+        "symbol": "\u26a6",
+        "symbol_color": "#000000",
+        "color_number": "DMC 164",
+        "color_name": "Forest Green Light"
+    },
+    {
+        "color": "#8DA675",
+        "symbol": "\u26a7",
+        "symbol_color": "#000000",
+        "color_number": "DMC 989",
+        "color_name": "Forest Green "
+    },
+    {
+        "color": "#738B5B",
+        "symbol": "\u26a8",
+        "symbol_color": "#000000",
+        "color_number": "DMC 988",
+        "color_name": "Forest Green Medium"
+    },
+    {
+        "color": "#587141",
+        "symbol": "\u26a9",
+        "symbol_color": "#000000",
+        "color_number": "DMC 987",
+        "color_name": "Forest Green Dark"
+    },
+    {
+        "color": "#405230",
+        "symbol": "\u26ac",
+        "symbol_color": "#000000",
+        "color_number": "DMC 986",
+        "color_name": "Forest Green Very Dark"
+    },
+    {
+        "color": "#E4ECD4",
+        "symbol": "\u26ad",
+        "symbol_color": "#000000",
+        "color_number": "DMC 772",
+        "color_name": "Yellow Green Very Light"
+    },
+    {
+        "color": "#CCD9B1",
+        "symbol": "\u26ae",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3348",
+        "color_name": "Yellow Green Light"
+    },
+    {
+        "color": "#71935C",
+        "symbol": "\u26af",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3347",
+        "color_name": "Yellow Green Medium"
+    },
+    {
+        "color": "#406A3A",
+        "symbol": "\u26b2",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3346",
+        "color_name": "Hunter Green"
+    },
+    {
+        "color": "#1B5915",
+        "symbol": "\u26b3",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3345",
+        "color_name": "Hunter Green Dark"
+    },
+    {
+        "color": "#1B5300",
+        "symbol": "\u26b4",
+        "symbol_color": "#000000",
+        "color_number": "DMC 895",
+        "color_name": "Hunter Green Very Dark"
+    },
+    {
+        "color": "#9ECF34",
+        "symbol": "\u26b5",
+        "symbol_color": "#000000",
+        "color_number": "DMC 704",
+        "color_name": "Chartreuse Bright"
+    },
+    {
+        "color": "#7BB547",
+        "symbol": "\u26b6",
+        "symbol_color": "#000000",
+        "color_number": "DMC 703",
+        "color_name": "Chartreuse"
+    },
+    {
+        "color": "#47A72F",
+        "symbol": "\u26b7",
+        "symbol_color": "#000000",
+        "color_number": "DMC 702",
+        "color_name": "Kelly Green"
+    },
+    {
+        "color": "#3F8F29",
+        "symbol": "\u26b8",
+        "symbol_color": "#000000",
+        "color_number": "DMC 701",
+        "color_name": "Green Light"
+    },
+    {
+        "color": "#07731B",
+        "symbol": "\u26b9",
+        "symbol_color": "#000000",
+        "color_number": "DMC 700",
+        "color_name": "Green Bright"
+    },
+    {
+        "color": "#056517",
+        "symbol": "\u26ba",
+        "symbol_color": "#000000",
+        "color_number": "DMC 699",
+        "color_name": "Green"
+    },
+    {
+        "color": "#C7E666",
+        "symbol": "\u26bb",
+        "symbol_color": "#000000",
+        "color_number": "DMC 907",
+        "color_name": "Parrot Green Light"
+    },
+    {
+        "color": "#7FB335",
+        "symbol": "\u26bc",
+        "symbol_color": "#000000",
+        "color_number": "DMC 906",
+        "color_name": "Parrot Green Medium"
+    },
+    {
+        "color": "#628A28",
+        "symbol": "\u26c9",
+        "symbol_color": "#000000",
+        "color_number": "DMC 905",
+        "color_name": "Parrot Green Dark"
+    },
+    {
+        "color": "#557822",
+        "symbol": "\u26ca",
+        "symbol_color": "#000000",
+        "color_number": "DMC 904",
+        "color_name": "Parrot Green Very Dark"
+    },
+    {
+        "color": "#D8E498",
+        "symbol": "\u26cb",
+        "symbol_color": "#000000",
+        "color_number": "DMC 472",
+        "color_name": "Avocado Green Ultra Light"
+    },
+    {
+        "color": "#AEBF79",
+        "symbol": "\u26cc",
+        "symbol_color": "#000000",
+        "color_number": "DMC 471",
+        "color_name": "Avocado Grn Very Light"
+    },
+    {
+        "color": "#94AB4F",
+        "symbol": "\u26cf",
+        "symbol_color": "#000000",
+        "color_number": "DMC 470",
+        "color_name": "Avocado Grn Light"
+    },
+    {
+        "color": "#72843C",
+        "symbol": "\u26d1",
+        "symbol_color": "#000000",
+        "color_number": "DMC 469",
+        "color_name": "Avocado Green"
+    },
+    {
+        "color": "#627133",
+        "symbol": "\u26d2",
+        "symbol_color": "#000000",
+        "color_number": "DMC 937",
+        "color_name": "Avocado Green Medium"
+    },
+    {
+        "color": "#4C5826",
+        "symbol": "\u26d3",
+        "symbol_color": "#000000",
+        "color_number": "DMC 936",
+        "color_name": "Avocado Green Very Dark"
+    },
+    {
+        "color": "#424D21",
+        "symbol": "\u26d6",
+        "symbol_color": "#000000",
+        "color_number": "DMC 935",
+        "color_name": "Avocado Green Dark"
+    },
+    {
+        "color": "#313919",
+        "symbol": "\u26d7",
+        "symbol_color": "#000000",
+        "color_number": "DMC 934",
+        "color_name": "Avocado Grn Black"
+    },
+    {
+        "color": "#ABB197",
+        "symbol": "\u26da",
+        "symbol_color": "#000000",
+        "color_number": "DMC 523",
+        "color_name": "Fern Green Light"
+    },
+    {
+        "color": "#9CA482",
+        "symbol": "\u26db",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3053",
+        "color_name": "Green Gray"
+    },
+    {
+        "color": "#889268",
+        "symbol": "\u26dd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3052",
+        "color_name": "Green Gray Medium"
+    },
+    {
+        "color": "#5F6648",
+        "symbol": "\u26de",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3051",
+        "color_name": "Green Gray Dark"
+    },
+    {
+        "color": "#C4CDAC",
+        "symbol": "\u26e2",
+        "symbol_color": "#000000",
+        "color_number": "DMC 524",
+        "color_name": "Fern Green Very Light"
+    },
+    {
+        "color": "#969E7E",
+        "symbol": "\u26e3",
+        "symbol_color": "#000000",
+        "color_number": "DMC 522",
+        "color_name": "Fern Green"
+    },
+    {
+        "color": "#666D4F",
+        "symbol": "\u26e4",
+        "symbol_color": "#000000",
+        "color_number": "DMC 520",
+        "color_name": "Fern Green Dark"
+    },
+    {
+        "color": "#83975F",
+        "symbol": "\u26e8",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3364",
+        "color_name": "Pine Green"
+    },
+    {
+        "color": "#728256",
+        "symbol": "\u26e9",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3363",
+        "color_name": "Pine Green Medium"
+    },
+    {
+        "color": "#5E6B47",
+        "symbol": "\u26eb",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3362",
+        "color_name": "Pine Green Dark"
+    },
+    {
+        "color": "#EFF4A4",
+        "symbol": "\u26ec",
+        "symbol_color": "#000000",
+        "color_number": "DMC 165",
+        "color_name": "Moss Green Very Light"
+    },
+    {
+        "color": "#E0E868",
+        "symbol": "\u26ed",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3819",
+        "color_name": "Moss Green Light"
+    },
+    {
+        "color": "#C0C840",
+        "symbol": "\u26ef",
+        "symbol_color": "#000000",
+        "color_number": "DMC 166",
+        "color_name": "Moss Green Medium Light"
+    },
+    {
+        "color": "#A7AE38",
+        "symbol": "\u26f0",
+        "symbol_color": "#000000",
+        "color_number": "DMC 581",
+        "color_name": "Moss Green"
+    },
+    {
+        "color": "#888D33",
+        "symbol": "\u26f6",
+        "symbol_color": "#000000",
+        "color_number": "DMC 580",
+        "color_name": "Moss Green Dark"
+    },
+    {
+        "color": "#C7C077",
+        "symbol": "\u26f8",
+        "symbol_color": "#000000",
+        "color_number": "DMC 734",
+        "color_name": "Olive Green Light"
+    },
+    {
+        "color": "#BCB34C",
+        "symbol": "\u26fb",
+        "symbol_color": "#000000",
+        "color_number": "DMC 733",
+        "color_name": "Olive Green Medium"
+    },
+    {
+        "color": "#948C36",
+        "symbol": "\u26fc",
+        "symbol_color": "#000000",
+        "color_number": "DMC 732",
+        "color_name": "Olive Green"
+    },
+    {
+        "color": "#938B37",
+        "symbol": "\u26ff",
+        "symbol_color": "#000000",
+        "color_number": "DMC 731",
+        "color_name": "Olive Green Dark"
+    },
+    {
+        "color": "#827B30",
+        "symbol": "\ud83d\udf01",
+        "symbol_color": "#000000",
+        "color_number": "DMC 730",
+        "color_name": "Olive Green Very Dark"
+    },
+    {
+        "color": "#B9B982",
+        "symbol": "\ud83d\udf03",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3013",
+        "color_name": "Khaki Green Light"
+    },
+    {
+        "color": "#A6A75D",
+        "symbol": "\ud83d\udf09",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3012",
+        "color_name": "Khaki Green Medium"
+    },
+    {
+        "color": "#898A58",
+        "symbol": "\ud83d\udf0a",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3011",
+        "color_name": "Khaki Green Dark"
+    },
+    {
+        "color": "#CCB784",
+        "symbol": "\ud83d\udf0b",
+        "symbol_color": "#000000",
+        "color_number": "DMC 372",
+        "color_name": "Mustard Light"
+    },
+    {
+        "color": "#BFA671",
+        "symbol": "\ud83d\udf0c",
+        "symbol_color": "#000000",
+        "color_number": "DMC 371",
+        "color_name": "Mustard"
+    },
+    {
+        "color": "#B89D64",
+        "symbol": "\ud83d\udf14",
+        "symbol_color": "#000000",
+        "color_number": "DMC 370",
+        "color_name": "Mustard Medium"
+    },
+    {
+        "color": "#DBBE7F",
+        "symbol": "\ud83d\udf15",
+        "symbol_color": "#000000",
+        "color_number": "DMC 834",
+        "color_name": "Golden Olive Very Light"
+    },
+    {
+        "color": "#C8AB6C",
+        "symbol": "\ud83d\udf16",
+        "symbol_color": "#000000",
+        "color_number": "DMC 833",
+        "color_name": "Golden Olive Light"
+    },
+    {
+        "color": "#BD9B51",
+        "symbol": "\ud83d\udf17",
+        "symbol_color": "#000000",
+        "color_number": "DMC 832",
+        "color_name": "Golden Olive"
+    },
+    {
+        "color": "#AA8F56",
+        "symbol": "\ud83d\udf18",
+        "symbol_color": "#000000",
+        "color_number": "DMC 831",
+        "color_name": "Golden Olive Medium"
+    },
+    {
+        "color": "#8D784B",
+        "symbol": "\ud83d\udf19",
+        "symbol_color": "#000000",
+        "color_number": "DMC 830",
+        "color_name": "Golden Olive Dark"
+    },
+    {
+        "color": "#7E6B42",
+        "symbol": "\ud83d\udf1a",
+        "symbol_color": "#000000",
+        "color_number": "DMC 829",
+        "color_name": "Golden Olive Very Dark"
+    },
+    {
+        "color": "#DCC4AA",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 613",
+        "color_name": "Drab Brown Very Light"
+    },
+    {
+        "color": "#BC9A78",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 612",
+        "color_name": "Drab Brown Light"
+    },
+    {
+        "color": "#967656",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 611",
+        "color_name": "Drab Brown"
+    },
+    {
+        "color": "#796047",
+        "symbol": "\ud83d\udf28",
+        "symbol_color": "#000000",
+        "color_number": "DMC 610",
+        "color_name": "Drab Brown Dark"
+    },
+    {
+        "color": "#E7D6C1",
+        "symbol": "\ud83d\udf29",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3047",
+        "color_name": "Yellow Beige Light"
+    },
+    {
+        "color": "#D8BC9A",
+        "symbol": "\ud83d\udf32",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3046",
+        "color_name": "Yellow Beige Medium"
+    },
+    {
+        "color": "#BC966A",
+        "symbol": "\ud83d\udf33",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3045",
+        "color_name": "Yellow Beige Dark"
+    },
+    {
+        "color": "#A77C49",
+        "symbol": "\ud83d\udf36",
+        "symbol_color": "#000000",
+        "color_number": "DMC 167",
+        "color_name": "Yellow Beige Very Dark"
+    },
+    {
+        "color": "#FCFCEE",
+        "symbol": "\ud83d\udf37",
+        "symbol_color": "#000000",
+        "color_number": "DMC 746",
+        "color_name": "Off White"
+    },
+    {
+        "color": "#F5ECCB",
+        "symbol": "\ud83d\udf38",
+        "symbol_color": "#000000",
+        "color_number": "DMC 677",
+        "color_name": "Old Gold Very Light"
+    },
+    {
+        "color": "#C69F7B",
+        "symbol": "\ud83d\udf3a",
+        "symbol_color": "#000000",
+        "color_number": "DMC 422",
+        "color_name": "Hazelnut Brown Light"
+    },
+    {
+        "color": "#B78B61",
+        "symbol": "\ud83d\udf3b",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3828",
+        "color_name": "Hazelnut Brown"
+    },
+    {
+        "color": "#A07042",
+        "symbol": "\ud83d\udf3c",
+        "symbol_color": "#000000",
+        "color_number": "DMC 420",
+        "color_name": "Hazelnut Brown Dark"
+    },
+    {
+        "color": "#835E39",
+        "symbol": "\ud83d\udf3f",
+        "symbol_color": "#000000",
+        "color_number": "DMC 869",
+        "color_name": "Hazelnut Brown Very Dark"
+    },
+    {
+        "color": "#E4B468",
+        "symbol": "\ud83d\udf42",
+        "symbol_color": "#000000",
+        "color_number": "DMC 728",
+        "color_name": "Topaz"
+    },
+    {
+        "color": "#CE9124",
+        "symbol": "\ud83d\udf43",
+        "symbol_color": "#000000",
+        "color_number": "DMC 783",
+        "color_name": "Topaz Medium"
+    },
+    {
+        "color": "#AE7720",
+        "symbol": "\ud83d\udf44",
+        "symbol_color": "#000000",
+        "color_number": "DMC 782",
+        "color_name": "Topaz Dark"
+    },
+    {
+        "color": "#A26D20",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 781",
+        "color_name": "Topaz Very Dark"
+    },
+    {
+        "color": "#94631A",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 780",
+        "color_name": "Topaz Ultra Very Dark"
+    },
+    {
+        "color": "#E5CE97",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 676",
+        "color_name": "Old Gold Light"
+    },
+    {
+        "color": "#D0A53E",
+        "symbol": "\ud83d\udf46",
+        "symbol_color": "#000000",
+        "color_number": "DMC 729",
+        "color_name": "Old Gold Medium"
+    },
+    {
+        "color": "#BC8D0E",
+        "symbol": "\ud83d\udf48",
+        "symbol_color": "#000000",
+        "color_number": "DMC 680",
+        "color_name": "Old Gold Dark"
+    },
+    {
+        "color": "#A98204",
+        "symbol": "\ud83d\udf4a",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3829",
+        "color_name": "Old Gold Vy Dark"
+    },
+    {
+        "color": "#F6DC98",
+        "symbol": "\ud83d\udf4c",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3822",
+        "color_name": "Straw Light"
+    },
+    {
+        "color": "#F3CE75",
+        "symbol": "\ud83d\udf4d",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3821",
+        "color_name": "Straw"
+    },
+    {
+        "color": "#DFB65F",
+        "symbol": "\ud83d\udf4e",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3820",
+        "color_name": "Straw Dark"
+    },
+    {
+        "color": "#CD9D37",
+        "symbol": "\ud83d\udf4f",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3852",
+        "color_name": "Straw Very Dark"
+    },
+    {
+        "color": "#FFFB8B",
+        "symbol": "\ud83d\udf50",
+        "symbol_color": "#000000",
+        "color_number": "DMC 445",
+        "color_name": "Lemon Light"
+    },
+    {
+        "color": "#FDED54",
+        "symbol": "\ud83d\udf51",
+        "symbol_color": "#000000",
+        "color_number": "DMC 307",
+        "color_name": "Lemon"
+    },
+    {
+        "color": "#FFE300",
+        "symbol": "\ud83d\udf52",
+        "symbol_color": "#000000",
+        "color_number": "DMC 973",
+        "color_name": "Canary Bright"
+    },
+    {
+        "color": "#FFD600",
+        "symbol": "\ud83d\udf53",
+        "symbol_color": "#000000",
+        "color_number": "DMC 444",
+        "color_name": "Lemon Dark"
+    },
+    {
+        "color": "#FDF9CD",
+        "symbol": "\ud83d\udf55",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3078",
+        "color_name": "Golden Yellow Very Light"
+    },
+    {
+        "color": "#FFF1AF",
+        "symbol": "\ud83d\udf57",
+        "symbol_color": "#000000",
+        "color_number": "DMC 727",
+        "color_name": "Topaz Very Light"
+    },
+    {
+        "color": "#FDD755",
+        "symbol": "\ud83d\udf58",
+        "symbol_color": "#000000",
+        "color_number": "DMC 726",
+        "color_name": "Topaz Light"
+    },
+    {
+        "color": "#FFC840",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 725",
+        "color_name": "Topaz Medium Light"
+    },
+    {
+        "color": "#FFB515",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 972",
+        "color_name": "Canary Deep"
+    },
+    {
+        "color": "#FFE9AD",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 745",
+        "color_name": "Yellow Pale Light"
+    },
+    {
+        "color": "#FFE793",
+        "symbol": "\ud83d\udf5e",
+        "symbol_color": "#000000",
+        "color_number": "DMC 744",
+        "color_name": "Yellow Pale"
+    },
+    {
+        "color": "#FED376",
+        "symbol": "\ud83d\udf5f",
+        "symbol_color": "#000000",
+        "color_number": "DMC 743",
+        "color_name": "Yellow Medium"
+    },
+    {
+        "color": "#FFBF57",
+        "symbol": "\ud83d\udf60",
+        "symbol_color": "#000000",
+        "color_number": "DMC 742",
+        "color_name": "Tangerine Light"
+    },
+    {
+        "color": "#FFA32B",
+        "symbol": "\ud83d\udf61",
+        "symbol_color": "#000000",
+        "color_number": "DMC 741",
+        "color_name": "Tangerine Medium"
+    },
+    {
+        "color": "#FF8B00",
+        "symbol": "\ud83d\udf62",
+        "symbol_color": "#000000",
+        "color_number": "DMC 740",
+        "color_name": "Tangerine"
+    },
+    {
+        "color": "#F78B13",
+        "symbol": "\ud83d\udf63",
+        "symbol_color": "#000000",
+        "color_number": "DMC 970",
+        "color_name": "Pumpkin Light"
+    },
+    {
+        "color": "#F67F00",
+        "symbol": "\ud83d\udf64",
+        "symbol_color": "#000000",
+        "color_number": "DMC 971",
+        "color_name": "Pumpkin"
+    },
+    {
+        "color": "#FF7B4D",
+        "symbol": "\ud83d\udf65",
+        "symbol_color": "#000000",
+        "color_number": "DMC 947",
+        "color_name": "Burnt Orange"
+    },
+    {
+        "color": "#EB6307",
+        "symbol": "\ud83d\udf66",
+        "symbol_color": "#000000",
+        "color_number": "DMC 946",
+        "color_name": "Burnt Orange Medium"
+    },
+    {
+        "color": "#D15807",
+        "symbol": "\ud83d\udf67",
+        "symbol_color": "#000000",
+        "color_number": "DMC 900",
+        "color_name": "Burnt Orange Dark"
+    },
+    {
+        "color": "#FFDED5",
+        "symbol": "\ud83d\udf68",
+        "symbol_color": "#000000",
+        "color_number": "DMC 967",
+        "color_name": "Apricot Very Light"
+    },
+    {
+        "color": "#FECDC2",
+        "symbol": "\ud83d\udf69",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3824",
+        "color_name": "Apricot Light"
+    },
+    {
+        "color": "#FCAB98",
+        "symbol": "\ud83d\udf6a",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3341",
+        "color_name": "Apricot"
+    },
+    {
+        "color": "#FF836F",
+        "symbol": "\ud83d\udf6b",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3340",
+        "color_name": "Apricot Medium"
+    },
+    {
+        "color": "#FD5D35",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 608",
+        "color_name": "Burnt Orange Bright"
+    },
+    {
+        "color": "#FA3203",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 606",
+        "color_name": "Orange Red Bright"
+    },
+    {
+        "color": "#FFE2CF",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 951",
+        "color_name": "Tawny Light"
+    },
+    {
+        "color": "#FFD3B5",
+        "symbol": "\ud83d\udf6d",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3856",
+        "color_name": "Mahogany Ultra Very Light"
+    },
+    {
+        "color": "#F7976F",
+        "symbol": "\ud83d\udf6e",
+        "symbol_color": "#000000",
+        "color_number": "DMC 722",
+        "color_name": "Orange Spice Light"
+    },
+    {
+        "color": "#F27842",
+        "symbol": "\ud83d\udf6f",
+        "symbol_color": "#000000",
+        "color_number": "DMC 721",
+        "color_name": "Orange Spice Medium"
+    },
+    {
+        "color": "#E55C1F",
+        "symbol": "\ud83d\udf70",
+        "symbol_color": "#000000",
+        "color_number": "DMC 720",
+        "color_name": "Orange Spice Dark"
+    },
+    {
+        "color": "#FDBD96",
+        "symbol": "\ud83d\udf71",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3825",
+        "color_name": "Pumpkin Pale"
+    },
+    {
+        "color": "#E27323",
+        "symbol": "\u2581",
+        "symbol_color": "#000000",
+        "color_number": "DMC 922",
+        "color_name": "Copper Light"
+    },
+    {
+        "color": "#C66218",
+        "symbol": "\u2583",
+        "symbol_color": "#000000",
+        "color_number": "DMC 921",
+        "color_name": "Copper"
+    },
+    {
+        "color": "#AC5414",
+        "symbol": "\u2585",
+        "symbol_color": "#000000",
+        "color_number": "DMC 920",
+        "color_name": "Copper Medium"
+    },
+    {
+        "color": "#A64510",
+        "symbol": "\u2587",
+        "symbol_color": "#000000",
+        "color_number": "DMC 919",
+        "color_name": "Red Copper"
+    },
+    {
+        "color": "#82340A",
+        "symbol": "\u2589",
+        "symbol_color": "#000000",
+        "color_number": "DMC 918",
+        "color_name": "Red Copper Dark"
+    },
+    {
+        "color": "#FFEEE3",
+        "symbol": "\u258a",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3770",
+        "color_name": "Tawny Vy Light"
+    },
+    {
+        "color": "#FBD5BB",
+        "symbol": "\u258c",
+        "symbol_color": "#000000",
+        "color_number": "DMC 945",
+        "color_name": "Tawny"
+    },
+    {
+        "color": "#F7A777",
+        "symbol": "\u258e",
+        "symbol_color": "#000000",
+        "color_number": "DMC 402",
+        "color_name": "Mahogany Very Light"
+    },
+    {
+        "color": "#CF7939",
+        "symbol": "\u258f",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3776",
+        "color_name": "Mahogany Light"
+    },
+    {
+        "color": "#B35F2B",
+        "symbol": "\u2591",
+        "symbol_color": "#000000",
+        "color_number": "DMC 301",
+        "color_name": "Mahogany Medium"
+    },
+    {
+        "color": "#8F430F",
+        "symbol": "\u2592",
+        "symbol_color": "#000000",
+        "color_number": "DMC 400",
+        "color_name": "Mahogany Dark"
+    },
+    {
+        "color": "#6F2F00",
+        "symbol": "\u2594",
+        "symbol_color": "#000000",
+        "color_number": "DMC 300",
+        "color_name": "Mahogany Very Dark"
+    },
+    {
+        "color": "#FFFDE3",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3823",
+        "color_name": "Yellow Ultra Pale"
+    },
+    {
+        "color": "#FAD396",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3855",
+        "color_name": "Autumn Gold Light"
+    },
+    {
+        "color": "#F2AF68",
+        "symbol": "\u2596",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3854",
+        "color_name": "Autumn Gold Medium"
+    },
+    {
+        "color": "#F29746",
+        "symbol": "\u2597",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3853",
+        "color_name": "Autumn Gold Dark"
+    },
+    {
+        "color": "#F7BB77",
+        "symbol": "\u2598",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3827",
+        "color_name": "Golden Brown Pale"
+    },
+    {
+        "color": "#DC9C56",
+        "symbol": "\u2599",
+        "symbol_color": "#000000",
+        "color_number": "DMC 977",
+        "color_name": "Golden Brown Light"
+    },
+    {
+        "color": "#C28142",
+        "symbol": "\u259a",
+        "symbol_color": "#000000",
+        "color_number": "DMC 976",
+        "color_name": "Golden Brown Medium"
+    },
+    {
+        "color": "#AD7239",
+        "symbol": "\u259b",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3826",
+        "color_name": "Golden Brown"
+    },
+    {
+        "color": "#914F12",
+        "symbol": "\u259c",
+        "symbol_color": "#000000",
+        "color_number": "DMC 975",
+        "color_name": "Golden Brown Dark"
+    },
+    {
+        "color": "#FEE7DA",
+        "symbol": "\u259d",
+        "symbol_color": "#000000",
+        "color_number": "DMC 948",
+        "color_name": "Peach Very Light"
+    },
+    {
+        "color": "#F7CBBF",
+        "symbol": "\u259e",
+        "symbol_color": "#000000",
+        "color_number": "DMC 754",
+        "color_name": "Peach Light"
+    },
+    {
+        "color": "#F4BBA9",
+        "symbol": "\u259f",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3771",
+        "color_name": "Terra Cotta Ultra Very Light"
+    },
+    {
+        "color": "#EEAA9B",
+        "symbol": "\u2504",
+        "symbol_color": "#000000",
+        "color_number": "DMC 758",
+        "color_name": "Terra Cotta Very Light"
+    },
+    {
+        "color": "#D98978",
+        "symbol": "\u2505",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3778",
+        "color_name": "Terra Cotta Light"
+    },
+    {
+        "color": "#C56A5B",
+        "symbol": "\u2506",
+        "symbol_color": "#000000",
+        "color_number": "DMC 356",
+        "color_name": "Terra Cotta Medium"
+    },
+    {
+        "color": "#BC5544",
+        "symbol": "\u2507",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3830",
+        "color_name": "Terra Cotta"
+    },
+    {
+        "color": "#984436",
+        "symbol": "\u250c",
+        "symbol_color": "#000000",
+        "color_number": "DMC 355",
+        "color_name": "Terra Cotta Dark"
+    },
+    {
+        "color": "#863022",
+        "symbol": "\u2510",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3777",
+        "color_name": "Terra Cotta Very Dark"
+    },
+    {
+        "color": "#F8CAC8",
+        "symbol": "\u2514",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3779",
+        "color_name": "Rosewood Ultra Very Light"
+    },
+    {
+        "color": "#BA8B7C",
+        "symbol": "\u2518",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3859",
+        "color_name": "Rosewood Light"
+    },
+    {
+        "color": "#964A3F",
+        "symbol": "\u251c",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3858",
+        "color_name": "Rosewood Medium"
+    },
+    {
+        "color": "#68251A",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3857",
+        "color_name": "Rosewood Dark"
+    },
+    {
+        "color": "#F3E1D7",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3774",
+        "color_name": "Desert Sand Very Light"
+    },
+    {
+        "color": "#EED3C4",
+        "symbol": "\u252c",
+        "symbol_color": "#000000",
+        "color_number": "DMC 950",
+        "color_name": "Desert Sand Light"
+    },
+    {
+        "color": "#C48E70",
+        "symbol": "\u2534",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3064",
+        "color_name": "Desert Sand"
+    },
+    {
+        "color": "#BB8161",
+        "symbol": "\u253c",
+        "symbol_color": "#000000",
+        "color_number": "DMC 407",
+        "color_name": "Desert Sand Medium"
+    },
+    {
+        "color": "#B67552",
+        "symbol": "\u254c",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3773",
+        "color_name": "Desert Sand Dark"
+    },
+    {
+        "color": "#A06C50",
+        "symbol": "\u254d",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3772",
+        "color_name": "Desert Sand Very Dark"
+    },
+    {
+        "color": "#875539",
+        "symbol": "\u254e",
+        "symbol_color": "#000000",
+        "color_number": "DMC 632",
+        "color_name": "Desert Sand Ultra Very Dark"
+    },
+    {
+        "color": "#D7CECB",
+        "symbol": "\u254f",
+        "symbol_color": "#000000",
+        "color_number": "DMC 453",
+        "color_name": "Shell Gray Light"
+    },
+    {
+        "color": "#C0B3AE",
+        "symbol": "\u2550",
+        "symbol_color": "#000000",
+        "color_number": "DMC 452",
+        "color_name": "Shell Gray Medium"
+    },
+    {
+        "color": "#917B73",
+        "symbol": "\u2551",
+        "symbol_color": "#000000",
+        "color_number": "DMC 451",
+        "color_name": "Shell Gray Dark"
+    },
+    {
+        "color": "#A68881",
+        "symbol": "\u2554",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3861",
+        "color_name": "Cocoa Light"
+    },
+    {
+        "color": "#7D5D57",
+        "symbol": "\u2557",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3860",
+        "color_name": "Cocoa"
+    },
+    {
+        "color": "#624B45",
+        "symbol": "\u255a",
+        "symbol_color": "#000000",
+        "color_number": "DMC 779",
+        "color_name": "Cocoa Dark"
+    },
+    {
+        "color": "#FFFBEF",
+        "symbol": "\u255d",
+        "symbol_color": "#000000",
+        "color_number": "DMC 712",
+        "color_name": "Cream"
+    },
+    {
+        "color": "#F8E4C8",
+        "symbol": "\u255f",
+        "symbol_color": "#000000",
+        "color_number": "DMC 739",
+        "color_name": "Tan Ultra Very Light"
+    },
+    {
+        "color": "#ECCC9E",
+        "symbol": "\u2562",
+        "symbol_color": "#000000",
+        "color_number": "DMC 738",
+        "color_name": "Tan Very Light"
+    },
+    {
+        "color": "#E4BB8E",
+        "symbol": "\u2569",
+        "symbol_color": "#000000",
+        "color_number": "DMC 437",
+        "color_name": "Tan Light"
+    },
+    {
+        "color": "#CB9051",
+        "symbol": "\u256c",
+        "symbol_color": "#000000",
+        "color_number": "DMC 436",
+        "color_name": "Tan"
+    },
+    {
+        "color": "#B87748",
+        "symbol": "\u2571",
+        "symbol_color": "#000000",
+        "color_number": "DMC 435",
+        "color_name": "Brown Very Light"
+    },
+    {
+        "color": "#985E33",
+        "symbol": "\u2572",
+        "symbol_color": "#000000",
+        "color_number": "DMC 434",
+        "color_name": "Brown Light"
+    },
+    {
+        "color": "#7A451F",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 433",
+        "color_name": "Brown Medium"
+    },
+    {
+        "color": "#653919",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 801",
+        "color_name": "Coffee Brown Dark"
+    },
+    {
+        "color": "#492A13",
+        "symbol": "\u2574",
+        "symbol_color": "#000000",
+        "color_number": "DMC 898",
+        "color_name": "Coffee Brown Very Dark"
+    },
+    {
+        "color": "#361F0E",
+        "symbol": "\u2575",
+        "symbol_color": "#000000",
+        "color_number": "DMC 938",
+        "color_name": "Coffee Brown Ultra Dark"
+    },
+    {
+        "color": "#1E1108",
+        "symbol": "\u2576",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3371",
+        "color_name": "Black Brown"
+    },
+    {
+        "color": "#F2E3CE",
+        "symbol": "\u2577",
+        "symbol_color": "#000000",
+        "color_number": "DMC 543",
+        "color_name": "Beige Brown Ultra Very Light"
+    },
+    {
+        "color": "#CBB69C",
+        "symbol": "\u2300",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3864",
+        "color_name": "Mocha Beige Light"
+    },
+    {
+        "color": "#A4835C",
+        "symbol": "\u2301",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3863",
+        "color_name": "Mocha Beige Medium"
+    },
+    {
+        "color": "#8A6E4E",
+        "symbol": "\u2302",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3862",
+        "color_name": "Mocha Beige Dark"
+    },
+    {
+        "color": "#4B3C2A",
+        "symbol": "\u2303",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3031",
+        "color_name": "Mocha Brown Very Dark"
+    },
+    {
+        "color": "#FFFFFF",
+        "symbol": "\u2304",
+        "symbol_color": "#000000",
+        "color_number": "DMC B5200",
+        "color_name": "Snow White"
+    },
+    {
+        "color": "#FCFBF8",
+        "symbol": "\u2305",
+        "symbol_color": "#000000",
+        "color_number": "DMC White",
+        "color_name": "White"
+    },
+    {
+        "color": "#F9F7F1",
+        "symbol": "\u2306",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3865",
+        "color_name": "Winter White"
+    },
+    {
+        "color": "#F0EADA",
+        "symbol": "\u2307",
+        "symbol_color": "#000000",
+        "color_number": "DMC Ecru",
+        "color_name": "Ecru"
+    },
+    {
+        "color": "#E7E2D3",
+        "symbol": "\u2311",
+        "symbol_color": "#000000",
+        "color_number": "DMC 822",
+        "color_name": "Beige Gray Light"
+    },
+    {
+        "color": "#DDD8CB",
+        "symbol": "\u2312",
+        "symbol_color": "#000000",
+        "color_number": "DMC 644",
+        "color_name": "Beige Gray Medium"
+    },
+    {
+        "color": "#A49878",
+        "symbol": "\u2313",
+        "symbol_color": "#000000",
+        "color_number": "DMC 642",
+        "color_name": "Beige Gray Dark"
+    },
+    {
+        "color": "#857B61",
+        "symbol": "\u2314",
+        "symbol_color": "#000000",
+        "color_number": "DMC 640",
+        "color_name": "Beige Gray Very Dark"
+    },
+    {
+        "color": "#625D50",
+        "symbol": "\u2315",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3787",
+        "color_name": "Brown Gray Dark"
+    },
+    {
+        "color": "#4F4B41",
+        "symbol": "\u2316",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3021",
+        "color_name": "Brown Gray Very Dark"
+    },
+    {
+        "color": "#EBEAE7",
+        "symbol": "\u2317",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3024",
+        "color_name": "Brown Gray Very Light"
+    },
+    {
+        "color": "#B1AA97",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3023",
+        "color_name": "Brown Gray Light"
+    },
+    {
+        "color": "#8E9078",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3022",
+        "color_name": "Brown Gray Medium"
+    },
+    {
+        "color": "#636458",
+        "symbol": "\u2326",
+        "symbol_color": "#000000",
+        "color_number": "DMC 535",
+        "color_name": "Ash Gray Very Light"
+    },
+    {
+        "color": "#E3D8CC",
+        "symbol": "\u2327",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3033",
+        "color_name": "Mocha Brown Very Light"
+    },
+    {
+        "color": "#D2BCA6",
+        "symbol": "\u2329",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3782",
+        "color_name": "Mocha Brown Light"
+    },
+    {
+        "color": "#B39F8B",
+        "symbol": "\u232a",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3032",
+        "color_name": "Mocha Brown Medium"
+    },
+    {
+        "color": "#7F6A55",
+        "symbol": "\u232b",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3790",
+        "color_name": "Beige Gray Ultra Dark"
+    },
+    {
+        "color": "#6B5743",
+        "symbol": "\u232c",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3781",
+        "color_name": "Mocha Brown Dark"
+    },
+    {
+        "color": "#FAF6F0",
+        "symbol": "\u232d",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3866",
+        "color_name": "Mocha Brown Ultra Very Light"
+    },
+    {
+        "color": "#D1BAA1",
+        "symbol": "\u232f",
+        "symbol_color": "#000000",
+        "color_number": "DMC 842",
+        "color_name": "Beige Brown Very Light"
+    },
+    {
+        "color": "#B69B7E",
+        "symbol": "\u2330",
+        "symbol_color": "#000000",
+        "color_number": "DMC 841",
+        "color_name": "Beige Brown Light"
+    },
+    {
+        "color": "#9A7C5C",
+        "symbol": "\u2332",
+        "symbol_color": "#000000",
+        "color_number": "DMC 840",
+        "color_name": "Beige Brown Medium"
+    },
+    {
+        "color": "#675541",
+        "symbol": "\u2335",
+        "symbol_color": "#000000",
+        "color_number": "DMC 839",
+        "color_name": "Beige Brown Dark"
+    },
+    {
+        "color": "#594937",
+        "symbol": "\u2336",
+        "symbol_color": "#000000",
+        "color_number": "DMC 838",
+        "color_name": "Beige Brown Very Dark"
+    },
+    {
+        "color": "#E6E8E8",
+        "symbol": "\u2337",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3072",
+        "color_name": "Beaver Gray Very Light"
+    },
+    {
+        "color": "#BCB4AC",
+        "symbol": "\u2338",
+        "symbol_color": "#000000",
+        "color_number": "DMC 648",
+        "color_name": "Beaver Gray Light"
+    },
+    {
+        "color": "#B0A69C",
+        "symbol": "\u2339",
+        "symbol_color": "#000000",
+        "color_number": "DMC 647",
+        "color_name": "Beaver Gray Medium"
+    },
+    {
+        "color": "#877D73",
+        "symbol": "\u233a",
+        "symbol_color": "#000000",
+        "color_number": "DMC 646",
+        "color_name": "Beaver Gray Dark"
+    },
+    {
+        "color": "#6E655C",
+        "symbol": "\u233b",
+        "symbol_color": "#000000",
+        "color_number": "DMC 645",
+        "color_name": "Beaver Gray Very Dark"
+    },
+    {
+        "color": "#484848",
+        "symbol": "\u233c",
+        "symbol_color": "#000000",
+        "color_number": "DMC 844",
+        "color_name": "Beaver Gray Ultra Dark"
+    },
+    {
+        "color": "#ECECEC",
+        "symbol": "\u233d",
+        "symbol_color": "#000000",
+        "color_number": "DMC 762",
+        "color_name": "Pearl Gray Very Light"
+    },
+    {
+        "color": "#D3D3D6",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 415",
+        "color_name": "Pearl Gray"
+    },
+    {
+        "color": "#ABABAB",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 318",
+        "color_name": "Steel Gray Light"
+    },
+    {
+        "color": "#8C8C8C",
+        "symbol": "\u233f",
+        "symbol_color": "#000000",
+        "color_number": "DMC 414",
+        "color_name": "Steel Gray Dark"
+    },
+    {
+        "color": "#D1D1D1",
+        "symbol": "\u2340",
+        "symbol_color": "#000000",
+        "color_number": "DMC 168",
+        "color_name": "Pewter Very Light"
+    },
+    {
+        "color": "#848484",
+        "symbol": "\u2341",
+        "symbol_color": "#000000",
+        "color_number": "DMC 169",
+        "color_name": "Pewter Light"
+    },
+    {
+        "color": "#6C6C6C",
+        "symbol": "\u2342",
+        "symbol_color": "#000000",
+        "color_number": "DMC 317",
+        "color_name": "Pewter Gray"
+    },
+    {
+        "color": "#565656",
+        "symbol": "\u2343",
+        "symbol_color": "#000000",
+        "color_number": "DMC 413",
+        "color_name": "Pewter Gray Dark"
+    },
+    {
+        "color": "#424242",
+        "symbol": "\u2344",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3799",
+        "color_name": "Pewter Gray Very Dark"
+    },
+    {
+        "color": "#000000",
+        "symbol": "\u2345",
+        "symbol_color": "#000000",
+        "color_number": "DMC 310",
+        "color_name": "Black"
+    },
+    {
+        "color": "#E3E3E6",
+        "symbol": "\u2346",
+        "symbol_color": "#000000",
+        "color_number": "DMC 1",
+        "color_name": "White Tin"
+    },
+    {
+        "color": "#D7D7D8",
+        "symbol": "\u2347",
+        "symbol_color": "#000000",
+        "color_number": "DMC 2",
+        "color_name": "Tin"
+    },
+    {
+        "color": "#B8B8BB",
+        "symbol": "\u2348",
+        "symbol_color": "#000000",
+        "color_number": "DMC 3",
+        "color_name": "Tin Medium"
+    },
+    {
+        "color": "#AEAEB1",
+        "symbol": "\u2349",
+        "symbol_color": "#000000",
+        "color_number": "DMC 4",
+        "color_name": "Tin Dark"
+    },
+    {
+        "color": "#E3CCBE",
+        "symbol": "\u234b",
+        "symbol_color": "#000000",
+        "color_number": "DMC 5",
+        "color_name": "Driftwood Light"
+    },
+    {
+        "color": "#DCC6B8",
+        "symbol": "\u234c",
+        "symbol_color": "#000000",
+        "color_number": "DMC 6",
+        "color_name": "Driftwood Medium Light"
+    },
+    {
+        "color": "#8F7B6E",
+        "symbol": "\u234d",
+        "symbol_color": "#000000",
+        "color_number": "DMC 7",
+        "color_name": "Driftwood"
+    },
+    {
+        "color": "#6A5046",
+        "symbol": "\u234e",
+        "symbol_color": "#000000",
+        "color_number": "DMC 8",
+        "color_name": "Driftwood Dark"
+    },
+    {
+        "color": "#552014",
+        "symbol": "\u234f",
+        "symbol_color": "#000000",
+        "color_number": "DMC 9",
+        "color_name": "Cocoa Very Dark"
+    },
+    {
+        "color": "#EDFED9",
+        "symbol": "\u2350",
+        "symbol_color": "#000000",
+        "color_number": "DMC 10",
+        "color_name": "Tender Green Very Light"
+    },
+    {
+        "color": "#E2EDB5",
+        "symbol": "\u2351",
+        "symbol_color": "#000000",
+        "color_number": "DMC 11",
+        "color_name": "Tender Green Light"
+    },
+    {
+        "color": "#CDD99A",
+        "symbol": "\u2352",
+        "symbol_color": "#000000",
+        "color_number": "DMC 12",
+        "color_name": "Tender Green"
+    },
+    {
+        "color": "#BFF6E0",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 13",
+        "color_name": "Nile Green Medium Light"
+    },
+    {
+        "color": "#D0FBB2",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 14",
+        "color_name": "Apple Green Pale"
+    },
+    {
+        "color": "#D1EDA4",
+        "symbol": "\u2354",
+        "symbol_color": "#000000",
+        "color_number": "DMC 15",
+        "color_name": "Apple Green"
+    },
+    {
+        "color": "#C9C258",
+        "symbol": "\u2358",
+        "symbol_color": "#000000",
+        "color_number": "DMC 16",
+        "color_name": "Chartreuse Light"
+    },
+    {
+        "color": "#E5E272",
+        "symbol": "\u2359",
+        "symbol_color": "#000000",
+        "color_number": "DMC 17",
+        "color_name": "Yellow Plum Light"
+    },
+    {
+        "color": "#D9D56D",
+        "symbol": "\u235a",
+        "symbol_color": "#000000",
+        "color_number": "DMC 18",
+        "color_name": "Yellow Plum"
+    },
+    {
+        "color": "#F7C95F",
+        "symbol": "\u235b",
+        "symbol_color": "#000000",
+        "color_number": "DMC 19",
+        "color_name": "Autumn Gold medium Light"
+    },
+    {
+        "color": "#F7AF93",
+        "symbol": "\u235c",
+        "symbol_color": "#000000",
+        "color_number": "DMC 20",
+        "color_name": "Shrimp"
+    },
+    {
+        "color": "#D79982",
+        "symbol": "\u235d",
+        "symbol_color": "#000000",
+        "color_number": "DMC 21",
+        "color_name": "Alizarin Light"
+    },
+    {
+        "color": "#BC604E",
+        "symbol": "\u235e",
+        "symbol_color": "#000000",
+        "color_number": "DMC 22",
+        "color_name": "Alizarin"
+    },
+    {
+        "color": "#EDE2ED",
+        "symbol": "\u235f",
+        "symbol_color": "#000000",
+        "color_number": "DMC 23",
+        "color_name": "Apple Blossom"
+    },
+    {
+        "color": "#E0D7EE",
+        "symbol": "\u2360",
+        "symbol_color": "#000000",
+        "color_number": "DMC 24",
+        "color_name": "White Lavender"
+    },
+    {
+        "color": "#DAD2E9",
+        "symbol": "\u2361",
+        "symbol_color": "#000000",
+        "color_number": "DMC 25",
+        "color_name": "Lavender Ultra Light"
+    },
+    {
+        "color": "#D7CAE6",
+        "symbol": "\u2362",
+        "symbol_color": "#000000",
+        "color_number": "DMC 26",
+        "color_name": "Lavender Pale"
+    },
+    {
+        "color": "#F0EEF9",
+        "symbol": "\u2363",
+        "symbol_color": "#000000",
+        "color_number": "DMC 27",
+        "color_name": "White Violet"
+    },
+    {
+        "color": "#9086A9",
+        "symbol": "\u2364",
+        "symbol_color": "#000000",
+        "color_number": "DMC 28",
+        "color_name": "Eggplant Medium Light"
+    },
+    {
+        "color": "#674076",
+        "symbol": "\u2365",
+        "symbol_color": "#000000",
+        "color_number": "DMC 29",
+        "color_name": "Eggplant"
+    },
+    {
+        "color": "#7D77A5",
+        "symbol": "\u2366",
+        "symbol_color": "#000000",
+        "color_number": "DMC 30",
+        "color_name": "Blueberry Medium Light"
+    },
+    {
+        "color": "#50518D",
+        "symbol": "\u2367",
+        "symbol_color": "#000000",
+        "color_number": "DMC 31",
+        "color_name": "Blueberry"
+    },
+    {
+        "color": "#4D2E8A",
+        "symbol": "\u2368",
+        "symbol_color": "#000000",
+        "color_number": "DMC 32",
+        "color_name": "Blueberry Dark"
+    },
+    {
+        "color": "#9C599C",
+        "symbol": "\u2369",
+        "symbol_color": "#000000",
+        "color_number": "DMC 33",
+        "color_name": "Fuschia"
+    },
+    {
+        "color": "#7D3064",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 34",
+        "color_name": "Fuschia Dark"
+    },
+    {
+        "color": "#46052D",
+        "symbol": "\ufffd",
+        "symbol_color": "#000000",
+        "color_number": "DMC 35",
+        "color_name": "Fuschia Very Dark"
+    }
+]
